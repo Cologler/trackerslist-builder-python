@@ -1,0 +1,23 @@
+{
+    "web": {
+        "best": [
+            "https://github.com/ngosang/trackerslist/raw/master/trackers_best.txt",
+            "https://github.com/ngosang/trackerslist/raw/master/trackers_best_ip.txt"
+        ],
+        "*": [
+            "https://github.com/ngosang/trackerslist/raw/master/trackers_all.txt",
+            "https://github.com/ngosang/trackerslist/raw/master/trackers_all_http.txt",
+            "https://github.com/ngosang/trackerslist/raw/master/trackers_all_https.txt",
+            "https://github.com/ngosang/trackerslist/raw/master/trackers_all_ip.txt",
+            "https://github.com/ngosang/trackerslist/raw/master/trackers_all_udp.txt",
+            "https://github.com/ngosang/trackerslist/raw/master/trackers_all_ws.txt"
+        ]
+    },
+
+    "user": {
+        "nyaa": [
+            "http://nyaa.tracker.wf:7777/announce",
+            "http://sukebei.tracker.wf:8888/announce"
+        ]
+    }
+}
