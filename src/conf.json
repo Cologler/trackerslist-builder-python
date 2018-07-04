@@ -18,6 +18,14 @@
         "nyaa": [
             "http://nyaa.tracker.wf:7777/announce",
             "http://sukebei.tracker.wf:8888/announce"
+        ],
+        "bangumi.moe": [
+            "https://tr.bangumi.moe:9696/announce",
+            "http://tr.bangumi.moe:6969/announce",
+            "udp://tr.bangumi.moe:6969/announce"
+        ],
+        "itzmx.com": [
+
         ]
     }
 }
